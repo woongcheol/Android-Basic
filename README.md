@@ -6,5 +6,5 @@
 1. AAC - Room [`repo`](https://github.com/woongcheol/Android-Clean-Architecture-Room)
 1. AAC - DataBinding [`repo`](https://github.com/woongcheol/Android-Clean-Architecture-DataBinding)
 1. AAC - LiveData [`repo`](https://github.com/woongcheol/Android-Clean-Architecture-LiveData)
-1. Architecture Pattern - MVVM
+1. Architecture Pattern - MVVM [`repo`](https://github.com/woongcheol/Android-Clean-Architecture-MVVM)
 1. Design Pattern
