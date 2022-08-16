@@ -1,33 +1,43 @@
-`최근 업데이트 : '22. 08. 11.`  
+`최근 업데이트 : '22. 08. 16.`  
 </br>
-![s184158734-26ba96d6-c259-4aeb-be28-5000ed3564eb](https://user-images.githubusercontent.com/86638578/184162823-d3c1f7f1-92e6-4129-9872-b70e42832dc2.png)  
-[이미지 출처](https://github.com/falsy/react-with-clean-architecture)  
+![image](https://user-images.githubusercontent.com/86638578/184792479-0f54fc56-0463-4ba0-b43d-3e6184a3d8c8.png)  
 </br>
 
 ## 개요
-#### 더 나은 사용자 경험을 위해 클린 아키텍처를 고민합니다.
-#### 이와 함께 안드로이드 Jetpack를 학습하고 있으며, 꾸준한 업데이트를 통해 지식을 공유합니다.  
+#### ✔ 더 나은 사용자 경험을 위해, 안드로이드 어플리케이션의 성능을 개선해 나갑니다.
+#### ✔ Clean Architecture, JectPack 라이브러리를 학습하고 있으며, 지속적으로 업데이트 될 예정입니다.
+#### ✔ 오류 및 보완해야할 내용은 Contribution을 통해 기여부탁드리겠습니다🙇‍♂️
 </br>
 
 ## 목차
-### 🚀 Jetpack
-![image](https://user-images.githubusercontent.com/86638578/184044306-c7986117-89cf-46c7-8f73-abd3da669461.png)
-
+### Jetpack
 #### 1. Architecture  
 #### 2. UI
 #### 3. Foundation
 #### 4. Behavior
+
+### Android Clean Architecture
+
+### Q&A
 </br>
 
 ## Jetpack
 
 
-![image](https://user-images.githubusercontent.com/86638578/184045345-6ffa4c57-bafd-4559-a904-55c6928d4532.png)
+![image](https://user-images.githubusercontent.com/86638578/184792585-a238e4e4-d1a0-44d7-8272-39896310c2c2.png)
 #### 2018년 5월에 발표된 라이브러리
-
-
 - AAC - Room [`repo`](https://github.com/woongcheol/Android-Clean-Architecture-Room)
 - AAC - DataBinding [`repo`](https://github.com/woongcheol/Android-Clean-Architecture-DataBinding)
 - AAC - LiveData [`repo`](https://github.com/woongcheol/Android-Clean-Architecture-LiveData)
 - Architecture Pattern - MVVM [`repo`](https://github.com/woongcheol/Android-Clean-Architecture-MVVM)
-- Design Pattern
+- Design Pattern  
+</br>
+
+## Android Clean Architecture
+![image](https://user-images.githubusercontent.com/86638578/184793261-dca999cd-08ad-4b32-babf-dd412c3b0698.png)
+[이미지 출처](https://github.com/falsy/react-with-clean-architecture)  
+- 작성 예정  
+</br>
+
+## Q&A
+- 작성예정
